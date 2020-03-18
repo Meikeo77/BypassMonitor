@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/NetWork
+END
+BMNetworkDataItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/NetWork/BMNetworkDataItem.h
+END
+BMNetworkDataModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/NetWork/BMNetworkDataModel.h
+END
+BMNetworkManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/NetWork/BMNetworkManager.h
+END
+BMNetworkDataItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/NetWork/BMNetworkDataItem.m
+END
+BMNetworkDataModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/NetWork/BMNetworkDataModel.m
+END
+BMNetworkManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/NetWork/BMNetworkManager.m
+END

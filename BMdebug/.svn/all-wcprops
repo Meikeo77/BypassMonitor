@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/JWL/KIF/!svn/ver/5626/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug
+END
+BypassMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/BypassMonitor.h
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/main.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/AppDelegate.h
+END
+BMEnumConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/BMEnumConstant.h
+END
+BypassMonitor.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/BypassMonitor.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/Info.plist
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/AppDelegate.m
+END
+BMCommonConstant.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/JWL/KIF/!svn/ver/5069/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/BMCommonConstant.h
+END
+BMPrefixHeader.pch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/JWL/KIF/!svn/ver/5625/4.Trunk/4.14RoadMonitor/sdk/IOS/BMdebug/BMdebug/BMPrefixHeader.pch
+END

@@ -1,0 +1,49 @@
+//
+//  BMPrefixHeader.pch
+//  BypassMonitor
+//
+//  Created by MiaoYe on 2019/1/7.
+//  Copyright © 2019 Meikeo. All rights reserved.
+//
+
+#ifndef BMPrefixHeader_pch
+#define BMPrefixHeader_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIkit.h>
+
+#import "BMBaseViewController.h"
+
+//宏定义
+#import "BMEnumConstant.h"
+#import "BMCommonConstant.h"
+
+//数据模型
+#import "BMBaseModel.h"
+
+//管理工具
+#import "BMCommonTool.h"
+#import "BMNetworkManager.h"
+
+//系统扩展类
+#import "NSDate+NimCaculate.h"
+#import "UIColor+NimCaculate.h"
+#import "UIAlertView+Blocks.h"
+#import "NSString+NimRegex.h"
+#import "NSString+NimCaculate.h"
+#import "UILabel+NimCaculate.h"
+#import "UIImage+NimCaculate.h"
+#import "UIView+NimCaculate.h"
+#import "UIViewController+NimHud.h"
+
+
+//第三方
+#import "MJExtension.h"
+#import "BMExtension.h"
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* BMPrefixHeader_pch */
